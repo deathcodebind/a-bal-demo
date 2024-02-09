@@ -1,0 +1,5 @@
+query getUserById($id: ID!) {
+  users(where: {id: $id}) {
+    id email username profile
+  }
+}
