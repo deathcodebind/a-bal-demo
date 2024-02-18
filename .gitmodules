@@ -1,0 +1,3 @@
+[submodule "client-for-bal-demo"]
+	path = client-for-bal-demo
+	url = https://github.com/deathcodebind/client-for-bal-demo
